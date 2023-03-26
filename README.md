@@ -5,7 +5,7 @@
     saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
 ### INSIDE
-Pada program terdapat class Mahasiswa yang berisi:
+Pada [Program](https://github.com/hestinadwii/LATIHAN5DPBO2023/tree/main/Program) terdapat class Mahasiswa yang berisi:
 - nim
 - nama
 - nilai
